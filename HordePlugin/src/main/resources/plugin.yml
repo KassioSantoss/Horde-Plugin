@@ -1,6 +1,0 @@
-name: HordePlugin
-version: '${project.version}'
-main: brcomkassin.Main
-api-version: '1.20'
-commands:
-  horde:
