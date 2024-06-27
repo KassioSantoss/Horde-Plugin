@@ -1,0 +1,6 @@
+name: HordePlugin
+version: '1.0'
+main: brcomkassin.Main
+api-version: '1.20'
+commands:
+  specialSwords:
