@@ -1,0 +1,14 @@
+brcomkassin\item\custom\ItemCustomMetaData.class
+brcomkassin\item\command\ItemCommand.class
+brcomkassin\horde\entity\CustomEntity.class
+brcomkassin\horde\listeners\PlayerHitListener.class
+brcomkassin\HordeTask.class
+brcomkassin\HordeTask$1.class
+brcomkassin\horde\Horde.class
+brcomkassin\item\utils\ItemBuilder.class
+brcomkassin\horde\entity\CustomEntityManager.class
+brcomkassin\item\custom\ItemCustom.class
+brcomkassin\horde\HordeManager.class
+brcomkassin\horde\entity\CustomEntityType.class
+brcomkassin\Main.class
+brcomkassin\horde\listeners\EntityTargetListener.class
